@@ -8,7 +8,7 @@ By the end of the internship, participants should be able to:
 
 - describe the major phases and events of the human gait cycle;
 - distinguish between kinematic, kinetic, electrophysiological, and muscle-architecture measurements;
-- explain how motion capture, force plates, EMG, and ultrasound contribute different information about human movement;
+- explain how motion capture, force plates, and EMG contribute different information about human movement;
 - interpret common gait variables including joint angles, joint moments, ground reaction forces, cadence, and walking speed;
 - explain fundamental signal-processing concepts including sampling frequency, noise, filtering, segmentation, interpolation, and normalization;
 - process and visualize biomechanical signals using MATLAB;
